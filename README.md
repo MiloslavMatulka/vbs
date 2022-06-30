@@ -1,2 +1,2 @@
 # vbs
-VBScript files
+Visual Basic Scripting (VBScript files)
